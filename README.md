@@ -6,7 +6,7 @@ I’m an experienced POS consultant pivoting into professional software developm
 
 ## Current projects
 
-* [Hello World: Java console application]({https://github.com/dd-java-22/hello-world-slyraje-cnm.git})
+* [Hello World: Java console application]({github.com/dd-java-22/hello-world-slyraje-cnm.git})
 
 * Hello World: Android app
 
