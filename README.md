@@ -11,3 +11,5 @@ I’m an experienced POS consultant pivoting into professional software developm
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn]({www.linkedin.com/in/michael-sylvester-32848a3a3})
