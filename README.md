@@ -6,4 +6,8 @@ I’m an experienced POS consultant pivoting into professional software developm
 
 ## Current projects
 
+* Hello World: Java console application
+
+* Hello World: Android app
+
 ## Links
