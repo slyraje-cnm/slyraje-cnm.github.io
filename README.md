@@ -13,7 +13,3 @@ I’m an experienced POS consultant pivoting into professional software developm
 ## Links
 
 * [LinkedIn]({www.linkedin.com/in/michael-sylvester-32848a3a3})
-
- > A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
- > 
- > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
